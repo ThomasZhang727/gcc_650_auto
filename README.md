@@ -27,3 +27,4 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 ```
 
 说明安装成功，否则安装失败。
+### 安装完成后请清理不必要的压缩文件.
