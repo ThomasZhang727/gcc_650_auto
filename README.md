@@ -8,11 +8,10 @@ gcc_650.sh在姜峰等同学编写的gcc 6.5.0安装编译文档的基础上完�
 
 ## 使用方法
 
-由于安装编译时间较长，所以建议挂后台运行，建议命令如下:
+由于安装编译时间较长，所以建议挂后台运行，建议使用tmux运行，命令如下:
 
 ```shell
-nohup bash gcc_650.sh [usr] [path] &
-tail -f nohup.out
+bash gcc_650.sh [usr] [path]
 ```
 
 其中`[usr]`和`[path]`分别填入用户名(如zhangsy)和指定的安装目录(如gcc_650)
