@@ -15,9 +15,10 @@ bash gcc_650.sh [usr] [path]
 ```
 
 其中`[usr]`和`[path]`分别填入用户名(如zhangsy)和指定的安装目录(如gcc_650)
+
 例如
 ```
-例如  bash gcc_650.sh zhangsy gcc_650
+bash gcc_650.sh zhangsy gcc_650
 ```
 
 ## 校验
